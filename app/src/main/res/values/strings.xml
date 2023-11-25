@@ -1,0 +1,46 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Manga List</string>
+    <string name="name">nama</string>
+    <string name="description">deskrispsi</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="search">Search</string>
+    <string-array name="data_name">
+        <item>One Punch Man</item>
+        <item>Jujutsu Kaisen</item>
+        <item>Komi-san wa, Komyushou Desu</item>
+        <item>Tensei Shitara Suraimu Datta Ken</item>
+        <item>Kishuku Gakkou no Juliet</item>
+        <item>Gotuobon no Hanayome</item>
+        <item>JoJo no Kimyô na Bôken</item>
+        <item>Sousou no Frieren</item>
+        <item>Nisekoi</item>
+        <item>Yakusoku no Neverland</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>The story of Saitama, a hero that does it just for fun &amp; can defeat his enemies with a single punch.
+In a world of superhuman beings, Saitama is a unique hero, he can defeat enemies with a single punch. But being just one hero in a world filled with them, his life is empty and hollow: he gets no respect from anyone, he displays a laidback attitude to everything and for the most part, he finds his overall hero life pointless… and worst of all, he lost his hair due to intense training. These are the adventures of an ordinary yet extraordinary hero.
+Follows the life of an average hero who manages to win all of his punches with one punch! This ends up being the cause of a lot of frustration as he no longer feels the thrill and adrenaline of fighting a tough battle. Maybe all of his rigorous training to become strong wasn\'t worth it. After all, what\'s so good about having an overwhelming power?</item>
+        <item>Yuji Itadori, a kind-hearted teenager, joins his school\'s Occult Club for fun, but discovers that its members are actual sorcerers who can manipulate the energy between beings for their own use. He hears about a cursed talisman - the finger of Sukuna, a demon - and its being targeted by other cursed beings. Yuji eats the finger to protect his friends, and ends up becoming Sukuna\'s host. However, Yuji discovers that he has inherited magic and is able to control this power without interference from Sukuna. He joins the Tokyo Metropolitan Magic Technical College to consumes all of Sukuna\'s fingers, which will enable a full exorcism to take place that will free him.</item>
+        <item>An absolute beauty to anyone, Shouko Komi in reality suffers from extreme social anxiety and communication problems, making her largely unable to talk to others. However, her attractiveness and stoic appearance, which in itself results from her anxiety, is perceived as refined class, making her highly popular while preventing people from actually getting to know her. Komi\'s first conversation with Tadano is over a blackboard, and she uses a notebook to convey her feelings through writing. Despite this, she is still capable of verbal conversation over a cell phone. Her dream is to overcome her communication problems and make 100 friends.</item>
+        <item>Lonely thirty-seven-year-old Mikami Satoru is stuck in a dead-end job, unhappy with his mundane life, but after dying at the hands of a robber, he awakens to a fresh start in a fantasy realm…as a slime monster. As he acclimates to his goopy new existence, his exploits with the other monsters set off a chain of events that will change his new world forever.</item>
+        <item>"To Love, or not to Love" Juliet Percia and Inuzuka Romio are archenemies. They lead two high-school dormitories the "Black Dogs" and the "White Cats" from two rivaling countries. Both factions are dead set on defeating the other to gain control over the island they have to share. Beneath the feuding exterior, however, Percia and Inuzuka long for love and peace for their budding relationship.</item>
+        <item>The story follows a high school student named Fuutarou Uesugi, who comes from a poor family and is extremely studious but also anti-social. One day, he is hired as a tutor by a wealthy family to teach the five daughters who are all quintuplets. These sisters, who have complex personalities and terrible grades, initially have a negative impression of Fuutarou. However, as he helps them improve their grades and navigate their personal issues, his relationship with each sister begins to develop in different ways, eventually leading to a romantic outcome with one of them. The series has been praised for its engaging characters, humorous plot, and intriguing romantic twists.</item>
+        <item>Chronicles the struggles of the cursed Joestar bloodline against the forces of evil. Beginning in 1880, Part I follows Jonathan Joestar as he matures with and eventually combats his adoptive brother, the cunning, merciless Dio Brando. Set in 1938, Part II follows the misadventures of Joseph Joestar, grandson of Jonathan, as he masters the Ripple in order to combat hostile, ancient super-beings named the Pillar Men; creators of the Stone Mask. Part III follows Jotaro Kujo and his group as they journey from Tokyo to Cairo to save his mother\'s life by defeating his family\'s resurrected archenemy, Dio. In Part IV, an Arrow manifesting latent Stand abilities travels throughout Morioh, Japan in 1999; as high-schooler Josuke Higashikata (illegitimate son of Joseph) and friends seek out the culprit of a series of decade-long homicides. Set in 2001, Part V follows Giorno Giovanna, son of Dio, and his ambition to rise within the Neapolitan mafia by subverting its most powerful gang: Passione</item>
+        <item>The demon king has been defeated, and the victorious hero party returns home before disbanding. The four-mage Frieren, hero Himmel, priest Heiter, and warrior Eisen-reminisce about their decade-long journey as the moment to bid each other farewell arrives. But the passing of time is different for elves, thus Frieren witnesses her companions slowly pass away one by one. Before his death, Heiter manages to foist a young human apprentice called Fern onto Frieren. Driven by the elf\'s passion for collecting a myriad of magic spells, the pair embarks on a seemingly aimless journey, revisiting the places that the heroes of yore had visited. Along their travels, Frieren slowly confronts her regrets of missed opportunities to form deeper bonds with her now-deceased comrades.</item>
+        <item>Raku Ichijou is an average high school student. He also happens to be the sole heir to the head of a Yakuza Family called the Shuei-gumi. Ten years ago, Raku made a promise… a secret promise with a girl he met. They promised one another that they will "get married when they reunite." Since then, Raku never let go of the pendant the girl gave him. Then one day, a beautiful girl named Chitoge Kirisaki transfers into Raku\'s class. Their chemistry was more than off. There was not a moment where they were not fighting. But by a weird turn of events, Raku and Chitoge agree to become fake lovers. Although his heart is really interested in his classmate Kosaki Onodera, Raku must continue pretending to be Chitoge\'s boyfriend.</item>
+        <item>At Grace Field House, life couldn\'t be better for the orphans. Though they have no parents, together with the other kids and a kind "Mama" who cares for them, they form one big, happy family. No child is ever overlooked, especially since they are all adopted by the age of 12. Their daily lives involve rigorous tests, but afterwards, they are allowed to play outside. There is only one rule they must obey: do not leave the orphanage. But one day, two top-scoring orphans, Emma and Norman, venture past the gate and unearth the harrowing secret behind their entire existence. Utilizing their quick-wittedness, the children must work together to somehow change their predetermined fate.</item>
+    </string-array>
+    <string-array name="data_photo">
+        <item>@drawable/opm</item>
+        <item>@drawable/jjk</item>
+        <item>@drawable/komi</item>
+        <item>@drawable/tensura</item>
+        <item>@drawable/persia</item>
+        <item>@drawable/dongo</item>
+        <item>@drawable/jojo</item>
+        <item>@drawable/sousou</item>
+        <item>@drawable/nisekoi</item>
+        <item>@drawable/never</item>
+    </string-array>
+</resources>
